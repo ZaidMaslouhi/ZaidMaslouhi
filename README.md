@@ -1,7 +1,7 @@
-Hi 👋 My name is zaid maslouhi
+Hi 👋 My name is Zaid Maslouhi
 ==============================
 
-software engineering student
+software engineer
 ----------------------------
 
 i've been learning to code for 5 years. i started with C++, but have really found a passion for backend development.
